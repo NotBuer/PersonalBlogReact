@@ -1,11 +1,3 @@
-.text-decorator-none{
-    text-decoration: none;
-}
-
-.texts1{
-    font-weight: bold !important;
-}
-
 .image{
     background-image: url(https://educationinprogress.eu/images/social_media.png);
     background-repeat: no-repeat;
@@ -14,4 +6,20 @@
     background-size: cover;
     background-position: center;
     border-radius: 45%;
+}
+
+.texts{
+    font-weight: bold !important;
+}
+
+.btnCancel{
+    margin-right: 20px !important;
+}
+
+.btnRegister{
+    margin-left: 20px !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
 }
